@@ -2,3 +2,4 @@ streamlit
 opencv-python
 numpy
 pandas
+scikit-image
